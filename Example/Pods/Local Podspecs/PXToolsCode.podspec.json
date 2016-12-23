@@ -1,0 +1,22 @@
+{
+  "name": "PXToolsCode",
+  "version": "0.1.0",
+  "summary": "A short description of PXToolsCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PXToolsCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhoupengxiang": "98@chinadance.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PXToolsCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PXToolsCode/Classes/**/*"
+}

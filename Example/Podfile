@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PXToolsCode_Example' do
+  pod 'PXToolsCode', :path => '../'
+
+  target 'PXToolsCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

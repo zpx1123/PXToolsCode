@@ -1,0 +1,16 @@
+PODS:
+  - PXToolsCode (0.1.0)
+
+DEPENDENCIES:
+  - PXToolsCode (from `../`)
+
+EXTERNAL SOURCES:
+  PXToolsCode:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PXToolsCode: a88d3869750d4b23fbee9481fb0ac335d7b17961
+
+PODFILE CHECKSUM: 53564f1deba99ed4f463a6c78039e6be50887353
+
+COCOAPODS: 1.2.0.beta.1
