@@ -30,8 +30,8 @@ PXToolsCode is a code for ios.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'PXToolsCode/Classes/*.{h,m}'
-  s.preserve_paths = 'PXToolsCode/*'
+  s.source_files = 'PXToolsCode/Classes/**/*'
+  #s.preserve_paths = 'PXToolsCode/*'
   # s.resource_bundles = {
   #   'PXToolsCode' => ['PXToolsCode/Assets/*.png']
   # }
