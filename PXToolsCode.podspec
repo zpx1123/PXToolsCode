@@ -38,5 +38,5 @@ PXToolsCode is a code for ios.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
     s.frameworks = 'UIKit', 'CoreFoundation', 'CoreText', 'CoreGraphics', 'CoreImage', 'QuartzCore', 'ImageIO', 'AssetsLibrary', 'Accelerate', 'MobileCoreServices', 'SystemConfiguration'
-   # s.dependency 'AFNetworking', '~> 3.0.4'
+    s.dependency 'AFNetworking', '~> 3.1.0'
 end
